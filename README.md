@@ -1,4 +1,4 @@
-## Hi there 👋 I'm KepitingRebus
+## Hi there I'm KepitingRebus
 
 Passionate about software development and technology.  
 Interested in programming, artificial intelligence, and system development.  
